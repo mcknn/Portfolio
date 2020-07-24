@@ -41,7 +41,7 @@ Here's a [little C++ project](https://repl.it/@mcknn/KnightMove#main.cpp) I did 
 
 A [Java program](https://repl.it/@mcknn/ShrillSubtleFrontpage#Main.java) for text analysis I did for my OOP course. The emphasis here was on multithreading so we couldn't use threadsafe datastructures (So I made my own. I mean, why reinvent the jetski when you can just reinvent the wheel?). Why this constraint? Ours is not to question why, ours is just to do or... well, get a terrible grade.
 
-And [here](https://repl.it/@mcknn/CMPSC-465-Project-6#main.cpp) you an find a short little dynamic programming solution to a problem which keeps exactly no one up at night (except folks in algorithms & data structures, perhaps!). C++.
+And [here](https://repl.it/@mcknn/CMPSC-465-Project-6#main.cpp) you can find a short little dynamic programming solution to a problem which keeps exactly no one up at night (except folks in algorithms & data structures, perhaps!). C++.
 
 [Implementation](https://repl.it/@mcknn/CRT-implementation#CRT.java) of the chinese remainder theorem to solve a particulary obscure problem (written in Java). This is unfinished because I thought of a simpler solution (if I had a dollar for every time that happened, I would... well, I'd have more dollars).
 
@@ -54,11 +54,11 @@ This is an ML quant finance project in python I'm working on in the quantopian f
 ## Technical & Research Writing
 *I like writing, though I have not had much time for it the past few years (engineering programs continue to live up to their reputation as being... intensive).*
 
-My favorite little project is [this](https://github.com/mcknn/Portfolio/blob/master/pdf/Scientific%20theory.pdf) little handout on the scientific theory. Not because it took a lot of effort or that it's particularly good, but because my professor tried to give me a 0 on it -- he said it way to good to have been put together by a student. What a compliment. I think he grudgingly gave me a B in the end.
+My favorite little project is [this](https://github.com/mcknn/Portfolio/blob/master/pdf/Scientific%20theory.pdf) little handout on the scientific theory. Not because it took a lot of effort or that it's particularly good, but because my professor tried to give me a 0 on it -- he said it was too good to have been put together by a student. What a compliment. I think he grudgingly gave me a B in the end.
 
 [Here](https://github.com/mcknn/Portfolio/blob/master/pdf/TechrepFinalDraft.pdf) is a very long research paper on climate change resiliency in North Carolina (also linked above under maps). I got inspired to do this when I noticed that while there is extensive climate resiliency research on a regional-and-above scale, only very limited information is available at the local level, particularly in locales where conservative politics dominate. Unfortunately, it is exactly those sorts of communities that are and will continue to see some of the most severe consequences of climate change. To get climate projections at the county level was a bit of an ordeal in terms of data preprocessing, and I had to get rather creative to downscale regional-resolution climate model data without completely losing predictive power. It was good fun.
 
-A research paper on Thorstein Veblen can be found [here](https://github.com/mcknn/Portfolio/blob/master/pdf/McKann_final.pdf).
+A research paper on Thorstein Veblen and development economics can be found [here](https://github.com/mcknn/Portfolio/blob/master/pdf/McKann_final.pdf).
 
 Another one, this time on [ethics](https://github.com/mcknn/Portfolio/blob/master/pdf/EthicsPaperMcKann.pdf). I write this for a chemistry lab, of all things. As if there wasn't already plenty to do!
 
