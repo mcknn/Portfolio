@@ -3,8 +3,9 @@
 
 ## New stuff
 
-Interactive version [here](https://public.flourish.studio/visualisation/3278148/)
+Interactive version [here](https://public.flourish.studio/visualisation/3278148/). The color bar reveals a bit about the asymmetry of these data.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Deaths_US.png)
+Notice the much more even distribution here.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Cases_US.png)
 
 ## Old Stuff
