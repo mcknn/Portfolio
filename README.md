@@ -1,7 +1,10 @@
 # Maps
 *What's where & why. Also, when. And how. And... you get the idea: maps are great.*
 
-Here's my favorite. [NC agriculture climate change resilience study](https://github.com/mcknn/Portfolio/blob/master/pdf/GISIIProjectMcKann.pdf) I did in advanced GIS. The .pdf is very large; it's a poster board. There's also an accompanying [paper](https://github.com/mcknn/Portfolio/blob/master/pdf/TechrepFinalDraft.pdf) that I wrote for technical writing. It's quite long, but I really enjoyed this project.
+Here's my favorite. 
+![](https://github.com/mcknn/Portfolio/blob/master/images/ncccmap.png)
+<br><br/>
+The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/GISIIProjectMcKann.pdf). The file is very large; it's a poster board, and you probably have to download it to view. There's also an accompanying [paper](https://github.com/mcknn/Portfolio/blob/master/pdf/TechrepFinalDraft.pdf) that I wrote for technical writing. It's quite long, but I really enjoyed this project.
 
 ## Some pieces from the above project.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/changeIndexAlg.png)
