@@ -5,6 +5,7 @@
 
 Interactive version [here](https://public.flourish.studio/visualisation/3278148/)
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Deaths_US.png)
+![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Cases_US.png)
 
 ## Old Stuff
 
