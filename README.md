@@ -3,8 +3,8 @@
 
 ## New stuff
 
-<div class="flourish-embed flourish-map" data-src="visualisation/3278148" data-url="https://flo.uri.sh/visualisation/3278148/embed">
-  <script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Interactive version [here](https://public.flourish.studio/visualisation/3278148/)
+![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Deaths_US.png)
 
 ## Old Stuff
 
