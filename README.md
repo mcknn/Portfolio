@@ -1,12 +1,19 @@
 # Maps
+## ...and Data Viz
 *What's where & why. Also, when. And how. And... you get the idea: maps are great.*
 
 ## New stuff
 
-Interactive version [here](https://public.flourish.studio/visualisation/3278148/). The color bar reveals a bit about the asymmetry of these data.
+I've been trying out Flourish, so here's what I've cranked out playing around. Not a lot of control, but it's a decent platform for exploring data quickly. Interactive version [here](https://public.flourish.studio/visualisation/3278148/). The bins are computed by quntile, so the color bar reveals a lot about the asymmetry of these data.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Deaths_US.png)
 Notice the much more even distribution here.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Cases_US.png)
+
+Now compare those distributions to [this](https://public.flourish.studio/visualisation/3281010). FL, NC and a few other southern states stand out with low ratios, so does Texas though it's harder to see because the outbreak has been much more localized there (it deserves its own map, for sure). Why? Well I know a statistician got fired in FL for refusing to suppress valid data. Go see her [FL COVID Dashboard](https://experience.arcgis.com/experience/7572b118dc3c48d885d1c643c195314e/). I live in NC and I know for sure that at least one county was supressing data. So I'd say it's unlikely that these states are just doing a great job of patient care. This is just bad data.
+
+![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Deaths_per_Case.png)
+Humor is how I get through tough times. Interesting relationship here, school lunches are a proxy for many things so I'm not surprised there's a bit of correlation, but the outliers are the real story. Down there at the bottom is Yakima county, WA. The outlier way up top is Menominee, WI. The y-axis is plotted on a log scale. Counties are color-coded by state. In the [interactive version](https://public.flourish.studio/visualisation/3281437) you can hover to see what's what.
+![](https://github.com/mcknn/Portfolio/blob/master/images/Free_Lunch.png)
 
 ## Old Stuff
 
