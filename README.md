@@ -10,8 +10,9 @@ Notice the much more even distribution here.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Cases_US.png)
 
 Now compare those distributions to [this](https://public.flourish.studio/visualisation/3281010).
-<br><br/>
+
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Deaths_per_Case.png)
+<br><br/>
 FL, NC and a few other southern states stand out with low ratios, so does Texas though it's harder to see because the outbreak has been much more localized there (it deserves its own map, for sure). Why? Well I know a statistician got fired in FL for refusing to suppress valid data. Go see her [FL COVID Dashboard](https://experience.arcgis.com/experience/7572b118dc3c48d885d1c643c195314e/). I live in NC and I know for sure that at least one county is supressing data. So I'd say it's unlikely that these states are just doing a great job of patient care. This is just bad data. By the way, here's the distribution (done in python, not flourish). Notice that using kde gives a nice smooth curve but the mode is at zero, so it implies some points are negative. But they're not of course. Looks a bit gamma to me though, might be worth trying to fit. <br><br/>
 ![](https://github.com/mcknn/Portfolio/blob/master/images/deaths_per_case_kde.png)
 
