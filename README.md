@@ -4,7 +4,7 @@
 
 ## New stuff
 
-I've been trying out Flourish, so here's what I've cranked out playing around. Not a lot of control, but it's a decent platform for exploring data quickly. Interactive version [here](https://public.flourish.studio/visualisation/3278148/). These images cut off the footer on export so the citations look wrong here. The bins are computed by pentacontile (yeah I just made that up. There's 50 bins in this map so it's not quintile binning...), so the color bar reveals a lot about the asymmetry of these data.
+Interactive version [here](https://public.flourish.studio/visualisation/3278148/). These images cut off the footer on export so the citations look wrong here. The bins are computed by pentacontile (yeah I just made that up. There's 50 bins in this map so it's not quintile binning...), so the color bar reveals a lot about the asymmetry of these data.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Deaths_US.png)
 Notice the much more even distribution here.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Cases_US.png)
@@ -19,8 +19,8 @@ FL, NC and a few other southern states stand out with low ratios, so does Texas 
 Here's a different, rather unusual look at the same dataset. Definitely go [look](https://public.flourish.studio/visualisation/3281744/) at the interactive version.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_by_st_cty_Treemap.png)<br><br/>
 
-This one has to be view interactively [here](https://public.flourish.studio/visualisation/3288891). It's just too cluttered without filtering by state. That said, this is an interesting relationship and probably worth digging into a bit more. Here's Alabama (dots are counties scaled by population):<br><br/>
-![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19%20deaths%20per%20case%20vs%20YPPL%20by%20cty.png))
+This one has to be viewed interactively [here](https://public.flourish.studio/visualisation/3288891). You just have to look at all the states. That said, this is an interesting relationship and probably worth digging into a bit more.<br><br/>
+![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19%20deaths%20per%20case%20vs%20YPPL.png)
 
 
 Humor is how I get through tough times. Interesting relationship here, school lunches are a proxy for many things so I'm not surprised there's a bit of correlation, but the outliers are the real story. Down there at the bottom is Yakima county, WA. The outlier way up top is Menominee, WI. The y-axis is plotted on a log scale. Counties are color-coded by state. In the [interactive version](https://public.flourish.studio/visualisation/3281437) you can hover to see what's what.
