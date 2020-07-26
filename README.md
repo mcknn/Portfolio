@@ -17,7 +17,10 @@ FL, NC and a few other southern states stand out with low ratios, so does Texas 
 ![](https://github.com/mcknn/Portfolio/blob/master/images/deaths_per_case_kde.png)
 
 Here's a different, rather unusual look at the same dataset. Definitely go [look](https://public.flourish.studio/visualisation/3281744/) at the interactive version.
-![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_by_st_cty_Treemap.png)
+![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_by_st_cty_Treemap.png)<br><br/>
+
+This one has to be view interactively [here](https://public.flourish.studio/visualisation/3288891). It's just too cluttered without filtering by state. That said, this is an interesting relationship and probably worth digging into a bit more. Here's Alabama (dots are counties scaled by population):<br><br/>
+![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19%20deaths%20per%20case%20vs%20YPPL%20by%20cty.png))
 
 
 Humor is how I get through tough times. Interesting relationship here, school lunches are a proxy for many things so I'm not surprised there's a bit of correlation, but the outliers are the real story. Down there at the bottom is Yakima county, WA. The outlier way up top is Menominee, WI. The y-axis is plotted on a log scale. Counties are color-coded by state. In the [interactive version](https://public.flourish.studio/visualisation/3281437) you can hover to see what's what.
