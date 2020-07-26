@@ -78,7 +78,7 @@ This is an ML quant finance project in python I'm working on in the quantopian f
 
 <br></br>
 <br></br>
-## Technical & Research Writing
+# Technical & Research Writing
 *I like writing, though I have not had much time for it the past few years (engineering programs continue to live up to their reputation as being... intensive).*
 
 My favorite little project is [this](https://github.com/mcknn/Portfolio/blob/master/pdf/Scientific%20theory.pdf) little handout on the scientific theory. Not because it took a lot of effort or that it's particularly good, but because my professor tried to give me a 0 on it -- he said it was too good to have been put together by a student. What a compliment. I think he grudgingly gave me a B in the end.
