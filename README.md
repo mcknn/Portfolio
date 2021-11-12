@@ -2,7 +2,6 @@
 ## ...and Data Viz
 *What's where & why. Also, when. And how. And... you get the idea: maps are great.*
 
-## New stuff
 
 Interactive version [here](https://public.flourish.studio/visualisation/3278148/). These images cut off the footer on export so the citations look wrong here. The bins are computed by pentacontile (yeah I just made that up. There's 50 bins in this map so it's not quintile binning...), so the color bar reveals a lot about the asymmetry of these data.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/COVID19_Deaths_US.png)
@@ -87,5 +86,5 @@ My favorite little project is [this](https://github.com/mcknn/Portfolio/blob/mas
 
 A research paper on Thorstein Veblen and development economics can be found [here](https://github.com/mcknn/Portfolio/blob/master/pdf/McKann_final.pdf).
 
-Another one, this time on [ethics](https://github.com/mcknn/Portfolio/blob/master/pdf/EthicsPaperMcKann.pdf). I write this for a chemistry lab, of all things. As if there wasn't already plenty to do!
+Another one, this time on [ethics](https://github.com/mcknn/Portfolio/blob/master/pdf/EthicsPaperMcKann.pdf). I wrote this for a chemistry lab, of all things. As if there wasn't already plenty to do!
 
