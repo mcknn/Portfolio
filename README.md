@@ -6,7 +6,6 @@ Click chart to go see this fullscreen, otherwise it's trash.
 <div>
     <a href="https://plotly.com/~mcknn/6/?share_key=4brepK2JNzlUSkl143ji6K" target="_blank" title="Plot 6" style="display: block; text-align: center;"><img src="https://plotly.com/~mcknn/6.png?share_key=4brepK2JNzlUSkl143ji6K" alt="Plot 6" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
-![](https://github.com/mcknn/Portfolio/blob/master/climagraph.ipynb)
 
 
 Interactive version [here](https://public.flourish.studio/visualisation/3278148/). These images cut off the footer on export so the citations look wrong here. The bins are computed by pentacontile (yeah I just made that up. There's 50 bins in this map so it's not quintile binning...), so the color bar reveals a lot about the asymmetry of these data.
