@@ -2,10 +2,7 @@
 ## ...and Data Viz
 *What's where & why. Also, when. And how. And... you get the idea: maps are great.*
 
-<div>
-    <a href="https://plotly.com/~mcknn/6/?share_key=4brepK2JNzlUSkl143ji6K" target="_blank" title="Plot 6" style="display: block; text-align: center;"><img src="https://plotly.com/~mcknn/6.png?share_key=4brepK2JNzlUSkl143ji6K" alt="Plot 6" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="mcknn:6" sharekey-plotly="4brepK2JNzlUSkl143ji6K" src="https://plotly.com/embed.js" async></script>
-</div>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mcknn/6.embed"></iframe>
 
 
 Interactive version [here](https://public.flourish.studio/visualisation/3278148/). These images cut off the footer on export so the citations look wrong here. The bins are computed by pentacontile (yeah I just made that up. There's 50 bins in this map so it's not quintile binning...), so the color bar reveals a lot about the asymmetry of these data.
