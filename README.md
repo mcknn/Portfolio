@@ -3,6 +3,7 @@
 *What's where & why. Also, when. And how. And... you get the idea: maps are great.*
 
 <div>
+    Click chart to go see this fullscreen, otherwise it's trash.
     <a href="https://plotly.com/~mcknn/6/?share_key=4brepK2JNzlUSkl143ji6K" target="_blank" title="Plot 6" style="display: block; text-align: center;"><img src="https://plotly.com/~mcknn/6.png?share_key=4brepK2JNzlUSkl143ji6K" alt="Plot 6" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
 
