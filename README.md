@@ -57,7 +57,7 @@ The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/
 
 A [webapp](https://github.com/mcknn/exp) in Django that I did with a small team. Because of time constraints I ended up writing ~3/4 of this, and I think we all learned a lot. It's an expense tracking app, with three user types, and I used plotly for a graph of historical data, a fitted curve, and a prediction (the latter I did not implement single-handedly).
 
-Ever wonder what your local climate will look like in a few decades? Me too. So I'm working on a webapp that predicts several climate variables for any county or state in the US (+Alaska) as well as their 1st & 2nd derivatives. One piece of this is a database, and that's done, [here](https://github.com/mcknn/nclimdiv-monthly) is the code to build it (be warned, it takes quite a while).
+Ever wonder what your local climate will look like in a few decades? Me too. So I'm working on a webapp that predicts several climate variables for any county or state in the continental US (I know, but you have to start somewhere) as well as their 1st & 2nd derivatives. One piece of this is a database, and that's done, [here](https://github.com/mcknn/nclimdiv-monthly) is the code to build it (be warned, it takes quite a while).
 
 A [contribution](http://rosettacode.org/wiki/Zumkeller_numbers#C.2B.2B) to the rosetta code project. It's about Zumkeller (if you don't know this name, you should!) numbers, which are integers whose divisors can be partitioned into two disjoint sets each having the same sum. C++.
 
