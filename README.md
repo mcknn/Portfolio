@@ -32,10 +32,10 @@ Humor is how I get through tough times. Interesting relationship here, school lu
 
 ## Old Stuff
 
-Here's my favorite. 
+Here's my favorite.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/ncccmap.png)
 <br><br/>
-The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/GISIIProjectMcKann.pdf). The file is very large; it's a poster board, and you probably have to download it to view. There's also an accompanying [paper](https://github.com/mcknn/Portfolio/blob/master/pdf/TechrepFinalDraft.pdf) that I wrote for technical writing. It's quite long, but I really enjoyed this project.
+The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/GISIIProjectMcKann.pdf). The file is very large; it's a poster board, and you probably have to download it to view. There's also an accompanying [paper](https://github.com/mcknn/Portfolio/blob/master/pdf/TechrepFinalDraft.pdf) that I wrote for technical writing. It's quite long (I won't be offended if you don't read the whole thing) but I really enjoyed this project.
 
 ## Some pieces from the above project.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/changeIndexAlg.png)
@@ -43,23 +43,8 @@ The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/
 ![Orange 2099](https://github.com/mcknn/Portfolio/blob/master/images/orange99.jpg)
 
 <br></br>
-### Thermal radiation. Unfinished, for sure. Can you guess the city?
-
-![](https://github.com/mcknn/Portfolio/blob/master/images/heat.JPG)
-
-<br></br>
 ### A landcover map for one of my GIS classes.
 ![](https://github.com/mcknn/Portfolio/blob/master/images/Lab2.jpg)
-
-
-<br></br>
-### Site suitability analysis. Hey, sometimes you just want to know where to go fishing.
-![](https://github.com/mcknn/Portfolio/blob/master/images/Sturgfinal.jpg)
-
-
-### Line of sight analysis. Not the prettiest, though.
-![](https://github.com/mcknn/Portfolio/blob/master/images/Lab_3.jpg)
-
 
 
 
@@ -68,7 +53,9 @@ The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/
 # Dev
 *This is a mix of directed and independent projects, and no where close to comprehensive. Of course, most of the complete compilable code was for coursework. But I'm most proud of the side projects that I haven't yet had time (there's never enough time) to finish.*
 
-A [webapp](https://github.com/mcknn/exp) in Django that I did as a team project. Because of time constraints I ended up writing ~3/4 of this, and I think we all learned a lot. It's an expense tracking app, with three user types, and I used plotly for a graph of historical data, a fitted curve, and a prediction (the latter I did not implement single-handedly).
+A [webapp](https://github.com/mcknn/exp) in Django that I did with a small team. Because of time constraints I ended up writing ~3/4 of this, and I think we all learned a lot. It's an expense tracking app, with three user types, and I used plotly for a graph of historical data, a fitted curve, and a prediction (the latter I did not implement single-handedly).
+
+Ever wonder what your local climate will look like in a few decades? Me too. So I'm working on a webapp that predicts several climate variables for any county or state in the US (+Alaska) as well as their 1st & 2nd derivatives. One piece of this is a database, and that's done, [here](https://github.com/mcknn/nclimdiv-monthly) is the code to build it (be warned, it takes quite a while).
 
 Here's a [little C++ project](https://repl.it/@mcknn/KnightMove#main.cpp) I did for algorithms & data structures way back when. It's about chess!
 
