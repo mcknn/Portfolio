@@ -57,6 +57,8 @@ A [webapp](https://github.com/mcknn/exp) in Django that I did with a small team.
 
 Ever wonder what your local climate will look like in a few decades? Me too. So I'm working on a webapp that predicts several climate variables for any county or state in the US (+Alaska) as well as their 1st & 2nd derivatives. One piece of this is a database, and that's done, [here](https://github.com/mcknn/nclimdiv-monthly) is the code to build it (be warned, it takes quite a while).
 
+A [contribution](http://rosettacode.org/wiki/Zumkeller_numbers#C.2B.2B) to the rosetta code project. It's about Zumkeller (if you don't know this name, you should!) numbers, which are integers whose divisors can be partitioned into two disjoint sets each having the same sum. C++.
+
 Here's a [little C++ project](https://repl.it/@mcknn/KnightMove#main.cpp) I did for algorithms & data structures way back when. It's about chess!
 
 A [Java program](https://repl.it/@mcknn/ShrillSubtleFrontpage#Main.java) for text analysis I did for my OOP course. The emphasis here was on multithreading so we couldn't use threadsafe datastructures (So I made my own. I mean, why reinvent the jetski when you can just reinvent the wheel?). Why this constraint? Ours is not to question why, ours is just to do or... well, get a terrible grade.
