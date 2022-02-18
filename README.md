@@ -34,6 +34,7 @@ Humor is how I get through tough times. Interesting relationship here, school lu
 ## Old Stuff
 
 Here's my favorite.
+
 ![](https://github.com/mcknn/Portfolio/blob/master/images/ncccmap.png)
 <br><br/>
 The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/GISIIProjectMcKann.pdf). The file is very large; it's a poster board, and you probably have to download it to view. There's also an accompanying [paper](https://github.com/mcknn/Portfolio/blob/master/pdf/TechrepFinalDraft.pdf) that I wrote for technical writing. It's quite long (I won't be offended if you don't read the whole thing) but I really enjoyed this project.
