@@ -44,15 +44,14 @@ The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/
 ![Orange 2015](https://github.com/mcknn/Portfolio/blob/master/images/orange15.jpg)
 ![Orange 2099](https://github.com/mcknn/Portfolio/blob/master/images/orange99.jpg)
 
-<br></br>
-### A landcover map for one of my GIS classes.
-![](https://github.com/mcknn/Portfolio/blob/master/images/Lab2.jpg)
-
 
 
 <br></br>
 <br></br>
 # Dev
+
+**All of my work from the past year is subject to NDA**
+
 *This is a mix of directed and independent projects, and no where close to comprehensive. Of course, most of the complete compilable code was for coursework. But I'm most proud of the side projects that I haven't yet had time (there's never enough time) to finish.*
 
 A [webapp](https://github.com/mcknn/exp) in Django that I did with a small team. Because of time constraints I ended up writing ~3/4 of this, and I think we all learned a lot. It's an expense tracking app, with three user types, and I used plotly for a graph of historical data, a fitted curve, and a prediction (the latter I did not implement single-handedly).
