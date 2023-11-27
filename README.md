@@ -1,3 +1,26 @@
+# Dev
+
+**Much of my work from the past year is subject to NDA**
+
+*This is a mix of directed and independent projects, and no where close to comprehensive. Of course, most of the complete compilable code was for coursework. But I'm most proud of the side projects that I haven't yet had time (there's never enough time) to finish.*
+
+A [webapp](https://github.com/mcknn/telepath) in React.js with a Django backend. It's something like tweetdeck for telegram, and I'm building it for some open-source intelligence folks.
+
+A [webapp](https://github.com/mcknn/exp) in Django that I did with a small team. Because of time constraints I ended up writing ~3/4 of this, and I think we all learned a lot. It's an expense tracking app, with three user types, and I used plotly for a graph of historical data, a fitted curve, and a prediction (the latter I did not implement single-handedly).
+
+Ever wonder what your local climate will look like in a few decades? Me too. So I'm working on a webapp that predicts several climate variables for any county or state in the continental US (I know, but you have to start somewhere) as well as their 1st & 2nd derivatives. One piece of this is a database, and that's done, [here](https://github.com/mcknn/nclimdiv-monthly) is the code to build it (be warned, it takes quite a while).
+
+A [contribution](http://rosettacode.org/wiki/Zumkeller_numbers#C.2B.2B) to the rosetta code project. It's about Zumkeller (if you don't know this name, you should!) numbers, which are integers whose divisors can be partitioned into two disjoint sets each having the same sum. C++.
+
+And [here](https://repl.it/@mcknn/CMPSC-465-Project-6#main.cpp) you can find a short little dynamic programming solution to a problem which keeps exactly no one up at night (except folks in algorithms & data structures, perhaps!). C++.
+
+[Implementation](https://repl.it/@mcknn/CRT-implementation#CRT.java) of the chinese remainder theorem to solve a particulary obscure problem (written in Java). This is unfinished because I thought of a simpler solution (if I had a dollar for every time that happened, I would... well, I'd have more dollars).
+
+This is an ML quant finance project in python I worked on in the quantopian framework. I actually have a handful of these up and running, but this is a decent example. It basically picks the most predictive signals for a given symbol and then places confidence-weighted trades based on those inputs. Really, it is a signal processing problem, and very hard to do well. The code [here](https://repl.it/@mcknn/UsableUnselfishCookie#main.py) is severely outdated but you can get the general idea. This certainly won't run outside quantopian.
+
+<br></br>
+<br></br>
+
 # Maps
 ## ...and Data Viz
 *What's where & why. Also, when. And how. And... you get the idea: maps are great.*
@@ -43,32 +66,6 @@ The fullscale .pdf is [here](https://github.com/mcknn/Portfolio/blob/master/pdf/
 ![](https://github.com/mcknn/Portfolio/blob/master/images/changeIndexAlg.png)
 ![Orange 2015](https://github.com/mcknn/Portfolio/blob/master/images/orange15.jpg)
 ![Orange 2099](https://github.com/mcknn/Portfolio/blob/master/images/orange99.jpg)
-
-
-
-<br></br>
-<br></br>
-# Dev
-
-**All of my work from the past year is subject to NDA**
-
-*This is a mix of directed and independent projects, and no where close to comprehensive. Of course, most of the complete compilable code was for coursework. But I'm most proud of the side projects that I haven't yet had time (there's never enough time) to finish.*
-
-A [webapp](https://github.com/mcknn/exp) in Django that I did with a small team. Because of time constraints I ended up writing ~3/4 of this, and I think we all learned a lot. It's an expense tracking app, with three user types, and I used plotly for a graph of historical data, a fitted curve, and a prediction (the latter I did not implement single-handedly).
-
-Ever wonder what your local climate will look like in a few decades? Me too. So I'm working on a webapp that predicts several climate variables for any county or state in the continental US (I know, but you have to start somewhere) as well as their 1st & 2nd derivatives. One piece of this is a database, and that's done, [here](https://github.com/mcknn/nclimdiv-monthly) is the code to build it (be warned, it takes quite a while).
-
-A [contribution](http://rosettacode.org/wiki/Zumkeller_numbers#C.2B.2B) to the rosetta code project. It's about Zumkeller (if you don't know this name, you should!) numbers, which are integers whose divisors can be partitioned into two disjoint sets each having the same sum. C++.
-
-Here's a [little C++ project](https://repl.it/@mcknn/KnightMove#main.cpp) I did for algorithms & data structures way back when. It's about chess!
-
-A [Java program](https://repl.it/@mcknn/ShrillSubtleFrontpage#Main.java) for text analysis I did for my OOP course. The emphasis here was on multithreading so we couldn't use threadsafe datastructures (So I made my own. I mean, why reinvent the jetski when you can just reinvent the wheel?). Why this constraint? Ours is not to question why, ours is just to do or... well, get a terrible grade.
-
-And [here](https://repl.it/@mcknn/CMPSC-465-Project-6#main.cpp) you can find a short little dynamic programming solution to a problem which keeps exactly no one up at night (except folks in algorithms & data structures, perhaps!). C++.
-
-[Implementation](https://repl.it/@mcknn/CRT-implementation#CRT.java) of the chinese remainder theorem to solve a particulary obscure problem (written in Java). This is unfinished because I thought of a simpler solution (if I had a dollar for every time that happened, I would... well, I'd have more dollars).
-
-This is an ML quant finance project in python I'm working on in the quantopian framework. I actually have a handful of these up and running, but this is a decent example. It basically picks the most predictive signals for a given symbol and then places confidence-weighted trades based on those inputs. Really, it is a signal processing problem, and very hard to do well. The code [here](https://repl.it/@mcknn/UsableUnselfishCookie#main.py) is severely outdated but you can get the general idea. This certainly won't run outside quantopian.
 
 
 
