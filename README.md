@@ -2,7 +2,7 @@
 
 **Much of my work from the past year is subject to NDA**
 
-*This is a mix of directed and independent projects, and no where close to comprehensive. Of course, most of the complete compilable code was for coursework. But I'm most proud of the side projects that I haven't yet had time (there's never enough time) to finish.*
+*This is a mix of directed and independent projects, and nowhere close to comprehensive. Of course, most of the complete compilable code was for coursework. But I'm most proud of the side projects that I haven't yet had time (there's never enough time) to finish.*
 
 A [webapp](https://github.com/mcknn/telepath) in React.js with a Django backend. It's something like tweetdeck for telegram, and I'm building it for some open-source intelligence folks.
 
